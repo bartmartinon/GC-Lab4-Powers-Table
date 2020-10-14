@@ -1,0 +1,23 @@
+Aside from the While Loops that are standard for user continuation prompts and the main application loop, I used a For Loop regarding the table creation.
+
+For Loops seemed to be the best choice considering that the amount of information to calculate and display needed to be specific, as it's supposed to be based on the user's input value. The variable in the initialization played the key role of keeping track of what loop cycle the program is on, and was involved in the calcuations and table creation.
+
+But if I ended up using a different kind of loop, (for example a While Loop) then I would have needed to organize said loop around extra variables that would play roles previously filled by the For Loop's initialization and post-loop iteration values.
+
+for (int b = 1; b <= x; b++)
+{	
+	// Code Block
+}
+
+would have needed to be restructured as the following:
+
+int b = 1;
+while (b <= x)
+{
+	// Code Block
+	b++;
+}
+
+This would have been the only major change that I could think of, as the loop is only relevant to the MakeTable method.
+
+But in summary, if I had used a different kind of loop, the program flow would have gone from having being dictated by a specified amount of loop cycles to (for the case of While Loops) just continously repeating cycles until the condition is false. The premise is the same, but there's less focus on a specific value.

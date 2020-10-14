@@ -1,0 +1,13 @@
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\PowersTable\PowersTable\bin\Debug\netcoreapp3.1\PowersTable.exe
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\PowersTable\PowersTable\bin\Debug\netcoreapp3.1\PowersTable.deps.json
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\PowersTable\PowersTable\bin\Debug\netcoreapp3.1\PowersTable.runtimeconfig.json
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\PowersTable\PowersTable\bin\Debug\netcoreapp3.1\PowersTable.runtimeconfig.dev.json
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\PowersTable\PowersTable\bin\Debug\netcoreapp3.1\PowersTable.dll
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\PowersTable\PowersTable\bin\Debug\netcoreapp3.1\PowersTable.pdb
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\PowersTable\PowersTable\obj\Debug\netcoreapp3.1\PowersTable.csprojAssemblyReference.cache
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\PowersTable\PowersTable\obj\Debug\netcoreapp3.1\PowersTable.AssemblyInfoInputs.cache
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\PowersTable\PowersTable\obj\Debug\netcoreapp3.1\PowersTable.AssemblyInfo.cs
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\PowersTable\PowersTable\obj\Debug\netcoreapp3.1\PowersTable.csproj.CoreCompileInputs.cache
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\PowersTable\PowersTable\obj\Debug\netcoreapp3.1\PowersTable.dll
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\PowersTable\PowersTable\obj\Debug\netcoreapp3.1\PowersTable.pdb
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\PowersTable\PowersTable\obj\Debug\netcoreapp3.1\PowersTable.genruntimeconfig.cache
